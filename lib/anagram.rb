@@ -2,7 +2,7 @@
  attr_accessor :words
 
   def initialize(word)
-    @word = word
+    @words = words
   end
 
   def match(word_array)
