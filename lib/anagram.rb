@@ -1,5 +1,5 @@
 # Your code goes here!
- attr_accessor :word
+ attr_accessor :words
 
   def initialize(word)
     @word = word
